@@ -3,7 +3,7 @@
 
 
 we have already learned how to implement a deque using a linked list or an array. Well why not twist it a bit?
-we can also use stacks to implement a deque which is what you will I will do this assignment. 
+we can also use stacks to implement a deque which is what I will do this assignment. 
 
 I first start off by implementing a queue using stacks since there are only two methods which inserts or removes
 a value from the queue rather than the four methods which inserts or removes a value from the deque.
