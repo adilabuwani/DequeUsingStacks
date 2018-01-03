@@ -1,0 +1,31 @@
+size
+
+hghaghjaghgha
+is_Empty
+first
+last
+remove_first
+remove_last
+add_first Adil Abuwani
+add_last Rodrigo Guarachi
+first
+last
+add_first Mike Moura
+add_last Professor Svitak
+size
+is_Empty
+first
+last
+remove_first
+first
+remove_last
+last
+size
+is_Empty
+remove_first
+remove_first
+remove_first
+first
+last
+size
+is_Empty
